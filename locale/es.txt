@@ -1,0 +1,102 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_6AC4DD12_7E05_E251_41D6_E3A1EFC669B1.source = http://twitter.com/loremipsum
+LinkBehaviour_6AC4FD12_7E05_E251_41C9_F0F31B02DD11.source = http://www.facebook.com/loremipsum
+LinkBehaviour_6AC71D12_7E05_E251_41C6_E1A10B468DA4.source = http://www.facebook.com/loremipsum
+LinkBehaviour_6AC73D12_7E05_E251_41B2_57D5E0EEF203.source = https://walink.co/b157f2
+LinkBehaviour_9E0DFB07_B0D7_AB8C_41CB_46E96261991F.source = https://walink.co/b157f2
+LinkBehaviour_9F1BF477_8CA8_B351_41A9_5DADC406BE8E.source = https://walink.co/b157f2
+LinkBehaviour_9BE4C81B_B7D1_9584_41DF_5361530E2C5D.source = https://walink.co/b157f2
+
+## Media
+
+### Audio
+audiores_C3BE4107_DE7F_B458_41CA_639947EAB002.mp3Url = media/audio_C00BFC05_DE7E_AC58_417C_0F896D70EC09_es.mp3
+audiores_C3BE4107_DE7F_B458_41CA_639947EAB002.oggUrl = media/audio_C00BFC05_DE7E_AC58_417C_0F896D70EC09_es.ogg
+audiores_C3A90246_DE7A_B4D8_41C8_94CB3898D9EE.mp3Url = media/audio_C1AA122F_DE7A_D4A8_41C1_D7B55EB87BB0_es.mp3
+audiores_C3A90246_DE7A_B4D8_41C8_94CB3898D9EE.oggUrl = media/audio_C1AA122F_DE7A_D4A8_41C1_D7B55EB87BB0_es.ogg
+
+### Título
+photo_C13DD0F9_DE97_B5A8_41E1_51E266598DD7.label = 1
+photo_C13DD0F9_DE97_B5A8_41E1_51E266598DD7.label = 1
+photo_C0D4371F_DE97_BC68_41E2_B0B5BB43C81E.label = 2
+photo_C0D4371F_DE97_BC68_41E2_B0B5BB43C81E.label = 2
+photo_C0D59BFA_DE97_ABA8_418B_212BCB1D12D8.label = 3
+photo_C0D59BFA_DE97_ABA8_418B_212BCB1D12D8.label = 3
+photo_C0D5817B_DE97_D4A8_41D9_63733532F596.label = 4
+photo_C0D5817B_DE97_D4A8_41D9_63733532F596.label = 4
+photo_C0D5E719_DE97_DC68_41E7_CF943AC3D952.label = 5
+photo_C0D5E719_DE97_DC68_41E7_CF943AC3D952.label = 5
+photo_C0D59D15_DE97_EC78_41E8_F7D43ADF89A9.label = 6
+photo_C0D59D15_DE97_EC78_41E8_F7D43ADF89A9.label = 6
+photo_C0D5E379_DE97_F4A8_41C7_6F7E27B5577D.label = 7
+photo_C0D5E379_DE97_F4A8_41C7_6F7E27B5577D.label = 7
+photo_C0D5898D_DE97_F468_41D5_6DCB5BB1EAB9.label = 8
+photo_C0D5898D_DE97_F468_41D5_6DCB5BB1EAB9.label = 8
+photo_C0D5EE5D_DE97_ECEB_41EA_7E51BC6D63A1.label = 9
+photo_C0D5EE5D_DE97_ECEB_41EA_7E51BC6D63A1.label = 9
+panorama_B63E05D4_BC03_085C_41DD_DE4421DCBEFD.label = Baño
+panorama_B63E0745_BC03_09BC_41B7_A52C11319671.label = Baño b
+panorama_F5C192BF_DDFA_F5A7_41D7_5F15B9490D3E.label = Baño puerta
+panorama_B63FC50E_BC01_09CC_41E0_B7EC91B7B8C0.label = Desayunador
+panorama_B63E2F44_BC01_19BC_41E4_4F5CCE456580.label = Entrada
+panorama_B63EBEA5_BC03_18FC_41DF_5E59EDCE7283.label = Escalera 1
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7.label = Galeria Mobile
+album_D554F4B3_C407_08D4_41E7_1C11AF7F7F91.label = Galeria desktop
+panorama_F576B460_DDF5_7CD9_41D3_0B97F09AFC0C.label = Habitación 
+panorama_F62585C1_DDF6_DFD8_41D5_C9A82F61BBC8.label = Habitación 2
+panorama_F60D56AC_DD96_BDA8_41D6_61B40D7AB6BB.label = Habitación B
+panorama_F60FF0C5_DDF5_D5D8_41E0_411B191742D7.label = Habitación b1
+panorama_B63E57B5_BC03_08DD_41E1_665C30C41380.label = Habitación b2
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_0.label = IMG_0843
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_1.label = IMG_0845
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_2.label = IMG_0912
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_3.label = IMG_0985
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_4.label = IMG_0994
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_5.label = IMG_1025
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_6.label = IMG_20220820_114904786_MF_PORTRAIT
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_7.label = IMG_20220820_120706535_MF_PORTRAIT
+album_D40A01D4_C407_085C_41E6_D2B841F70EF7_8.label = IMG_20220820_121058559
+panorama_B63E22E8_BC01_0874_41C6_A337B0B52271.label = Pasillo
+panorama_B63FD64C_BC01_084C_41E6_3D762609E997.label = Pasillo 4
+panorama_B63E7962_BC03_1874_41AD_4ECB362BC13A.label = Pasillo 5
+panorama_B63E3ACA_BC03_38B4_41DE_5FCB6F2F4575.label = Pasillo 6
+panorama_B63E64A1_BC01_08F5_41D2_5AB99E0061A7.label = Pasillo recepción
+panorama_B63E6198_BC01_08D3_41D6_9C27C32FC563.label = Recepción
+panorama_B63EDC8A_BC01_F8B7_41E5_FDDCD1993163.label = Sala de estar
+
+## Skin
+
+### Botón
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = CONTACTAR
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = CONTACTAR
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = FOTOS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = FOTOS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMACIÓN
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMACIÓN
+Button_C091BE5C_D6B6_ACE8_41B2_AA2C41B9E58B.label = RECORRELO 360°
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = SECTORES
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = SECTORES
+
+### Imágen
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_es.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_es.jpg
+Image_957C5162_B0D1_F784_41C3_D83138A29979.url = skin/Image_957C5162_B0D1_F784_41C3_D83138A29979_es.png
+Image_957C5162_B0D1_F784_41C3_D83138A29979_mobile.url = skin/Image_957C5162_B0D1_F784_41C3_D83138A29979_mobile_es.png
+Image_EC04A706_C41F_09BC_41E6_CF1A78379E15.url = skin/Image_EC04A706_C41F_09BC_41E6_CF1A78379E15_es.png
+Image_EC04A706_C41F_09BC_41E6_CF1A78379E15_mobile.url = skin/Image_EC04A706_C41F_09BC_41E6_CF1A78379E15_mobile_es.png
+Image_F7E34E17_DC01_7BDD_41C9_9C56987F752F.url = skin/Image_F7E34E17_DC01_7BDD_41C9_9C56987F752F_es.jpg
+
+### Texto Multilínea
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:115%;text-align:left;font-size:7.499999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5vw;font-family:'Exo';"><B><I>Hotel Belian **</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.75vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:22.31vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:3.6111111111111103vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:3.61vw;font-family:'Exo';"><B><I>Situado a 200 metros de la Peatonal San Martín y de la Catedral, a 50 metros del Shopping Los Gallegos, a 600 metros de la playa y a pasos de los más importantes cines y teatros de la ciudad, proporcionando un lugar ideal para disfrutar de la playa y de la completa vida cultural y comercial de la ciudad.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:22.31vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Nuestro equipo está a su disposición para aconsejarle y ayudarle a organizar su estadía. Será un placer servirle.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:22.31vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Desayuno buffet</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Wi-Fi de alta velocidad sin cargo en habitaciones y lugares comunes</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Área Médica Protegida las 24 horas</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Depósito de equipajes</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Late check out sujeto a disponibilidad</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Calefacción central</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:3.055555555555556vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.06vw;font-family:'Exo';">Cochera opcional</SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:115%;text-align:left;font-size:2.8019925280199267vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.8vw;font-family:'Exo';"><B><I>Hotel Belian**</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.07vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:1.0585305105853051vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.06vw;font-family:'Exo';"><B><I>Situado a 200 metros de la Peatonal San Martín y de la Catedral, a 50 metros del Shopping Los Gallegos, a 600 metros de la playa y a pasos de los más importantes cines y teatros de la ciudad, proporcionando un lugar ideal para disfrutar de la playa y de la completa vida cultural y comercial de la ciudad.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Nuestro equipo está a su disposición para aconsejarle y ayudarle a organizar su estadía. Será un placer servirle.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.93vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Desayuno buffet</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Wi-Fi de alta velocidad sin cargo en habitaciones y lugares comunes</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Área Médica Protegida las 24 horas</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Depósito de equipajes</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Late check out sujeto a disponibilidad</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Calefacción central</SPAN></SPAN></DIV><DIV STYLE="line-height:115%;text-align:left;font-size:0.9339975093399748vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.93vw;font-family:'Exo';">Cochera opcional</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Belian

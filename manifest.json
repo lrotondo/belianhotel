@@ -1,4 +1,8 @@
 {
+ "name": "Belian",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Belian",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
